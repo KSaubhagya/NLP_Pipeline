@@ -14,7 +14,7 @@ The workflow covers **text preprocessing, baseline rule-based scoring, feature e
 
 ---
 
-## Dataset
+##📈 Dataset
 The dataset consists of movie review texts and sentiment labels, divided into:
 
 - **Training set**
@@ -29,7 +29,7 @@ The data is loaded directly from **IBM Cloud Object Storage**.
 
 ---
 
-## Text Preprocessing
+##📊 Text Preprocessing
 The following preprocessing steps are applied to the text data:
 
 - **Lowercasing** using `casefold()` for consistent word matching
@@ -66,7 +66,7 @@ This helps validate that the scoring mechanism aligns with sentiment labels.
 
 ---
 
-## Feature Extraction (Bag of Words)
+##🔧 Feature Extraction (Bag of Words)
 Text data is converted into numerical form using **CountVectorizer**:
 
 - Each document is represented as a vector of word counts
