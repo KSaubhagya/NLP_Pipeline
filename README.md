@@ -1,6 +1,6 @@
 # NLP_Pipeline
 
-# Sentiment Analysis with Logistic Regression (Three-Class Classification)
+# 📌 Sentiment Analysis with Logistic Regression (Three-Class Classification)
 
 ## Overview
 This project implements a **three-class sentiment analysis system** using classical **Natural Language Processing (NLP)** techniques and **Logistic Regression**.  
