@@ -77,7 +77,7 @@ A toy example is included to clearly demonstrate how words are mapped to numeric
 
 ---
 
-## Model Training
+##🌟 Model Training
 A **Logistic Regression** classifier is trained using:
 
 - Bag-of-words features
