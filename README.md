@@ -19,7 +19,7 @@ The dataset consists of movie review texts and sentiment labels, divided into:
 
 - **Training set**
 - **Validation set**
-- **Test set**
+- **Test set** 
 
 Each record contains:
 - **X** → Review text  
