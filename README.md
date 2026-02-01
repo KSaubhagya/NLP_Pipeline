@@ -6,7 +6,7 @@
 This project implements a **three-class sentiment analysis system** using classical **Natural Language Processing (NLP)** techniques and **Logistic Regression**.  
 Each text sample is classified into one of the following sentiment categories:
 
-- **1** → Positive sentiment  
+- **1** → Positive sentiment
 - **0** → Neutral sentiment  
 - **-1** → Negative sentiment  
 
